@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a79c1a4c-1f87-44b3-bbcd-93d7245782a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pop-Art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Surrealism.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Surrealism_UP9R6dX.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Surrealism_fVzGOiM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/launching.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/new/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -327,12 +321,12 @@
       <workItem from="1557119203753" duration="8674000" />
       <workItem from="1557205758022" duration="7940000" />
       <workItem from="1557229649749" duration="772000" />
-      <workItem from="1557293183964" duration="2288000" />
+      <workItem from="1557293183964" duration="3863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63044000" />
+    <option name="totallyTimeSpent" value="64619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +339,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15464547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -520,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
